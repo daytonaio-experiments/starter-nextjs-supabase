@@ -125,14 +125,13 @@ You can use these endpoints to interact with the database via Postman or similar
 
     **Body:** `{ "blog_post_id": "int", "user_id": "int", "content": "string", "created_at": "timestamp" }`
 
-
 - **POST /api/get-comment** - Retrieve comments for a blog post
 
-    `Body: { "blog_post_id": "int" }`
+    **Body:** `{ "blog_post_id": "int" }`
 
 - **DELETE /api/delete-comment** - Delete a comment
 
-    `Body: { "id": "int" }`
+    **Body:** `{ "id": "int" }`
 
 ## Dev Container Configuration
 
