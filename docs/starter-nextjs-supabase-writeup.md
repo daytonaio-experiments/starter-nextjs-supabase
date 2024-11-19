@@ -240,6 +240,8 @@ npm run dev
 
 Your backend application will now be accessible at [http://localhost:3000](http://localhost:3000). Use this URL to interact with the API endpoints and verify the setup.
 
+![next.js running app](/docs/assets/nextjs-running-image.png)
+
 ### Dev Container Configuration
 
 The project includes a Dev Container setup to ensure a consistent and ready-to-use development environment. Here’s the configuration used for this application:
