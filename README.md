@@ -57,7 +57,7 @@ This application is containerized to be easily run using [Daytona](https://www.d
     );
     ```
 
-    ![database-build-demo-design](/docs/assets/datbase-build-design.png)
+    ![datbase.build schema design](/docs/assets/datbase-build-app-design.png)
 
 3. Now, set up your Supabase project by following this [documentation](https://supabase.com/docs/guides/database/overview). In the **Supabase dashboard**, go to the **Table Editor** and create the database tables as per the design generated from **database.build**. 
 
