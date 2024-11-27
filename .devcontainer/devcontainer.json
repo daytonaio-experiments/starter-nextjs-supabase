@@ -42,5 +42,6 @@
     },
     "workspaceFolder": "/workspaces/starter-nextjs-supabase",
     "onCreateCommand": "npm install",
-    "remoteUser": "daytona"
+    "remoteUser": "daytona",
+    "runArgs": ["--network=host"]
 }
